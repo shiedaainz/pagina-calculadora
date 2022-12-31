@@ -1,0 +1,20 @@
+
+label{
+    color:red; 
+}
+h1{
+    color:blueviolet;
+}
+div{
+    background-color: yellow;
+}
+input{
+    color: magenta;
+    background-color: silver;
+}
+p{
+    color:chocolate;
+}
+body{
+    color: blue
+}
